@@ -5,11 +5,10 @@
 // @author       Enderty
 // @match        https://www.roblox.com/
 // @icon         https://img.icons8.com/nolan/452/roblox.png
-// @grant        none
-// @namespace       https://github.com/Doxca/roblox-timer-preview
-// @updateURL       https://raw.githubusercontent.com/Doxca/roblox-timer-preview/main/preview_roblox.user.js
-// @downloadURL     https://raw.githubusercontent.com/Doxca/roblox-timer-preview/main/preview_roblox.user.js
-// @supportURL      https://github.com/Doxca/roblox-timer-preview/issues
+// @namespace    https://github.com/Doxca/roblox-timer-preview
+// @updateURL    https://raw.githubusercontent.com/Doxca/roblox-timer-preview/main/preview_roblox.user.js
+// @downloadURL  https://raw.githubusercontent.com/Doxca/roblox-timer-preview/main/preview_roblox.user.js
+// @supportURL   https://github.com/Doxca/roblox-timer-preview/issues
 // ==/UserScript==
 
         function timer(params) {
