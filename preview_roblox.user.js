@@ -6,6 +6,10 @@
 // @match        https://www.roblox.com/
 // @icon         https://www.google.com/s2/favicons?domain=roblox.com
 // @grant        none
+// @namespace       https://github.com/Doxca/roblox-timer-preview
+// @updateURL       https://raw.githubusercontent.com/Doxca/roblox-timer-preview/main/preview_roblox.user.js
+// @downloadURL     https://raw.githubusercontent.com/Doxca/roblox-timer-preview/main/preview_roblox.user.js
+// @supportURL      https://github.com/Doxca/roblox-timer-preview/issues
 // ==/UserScript==
 
 (function() {
